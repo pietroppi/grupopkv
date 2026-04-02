@@ -1,7 +1,7 @@
 body {
-    font-family: Arial;
+    font-family: Mathematical Bold Italic;
     text-align: center;
-    background-color: #f4f4f4;
+    background-color: #494949;
 }
 
 .grid-container {
@@ -12,10 +12,10 @@ body {
 }
 
 .card {
-    background: white;
+    background: rgb(136, 136, 136);
     padding: 10px;
     border-radius: 10px;
-    box-shadow: 0px 0px 5px gray;
+    box-shadow: 0px 0px 5px rgb(0, 0, 0);
 }
 
 /* AREA DA IMAGEM PADRÃO */
